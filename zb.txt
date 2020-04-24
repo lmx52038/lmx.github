@@ -78,89 +78,89 @@
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",中国天气
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西购物
 http://mobilelive.gxtv.cn/live/nn_live1002/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西影视
 http://mobilelive.gxtv.cn/live/nn_live1003/playlist.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="广西地方",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="广西城隍",广西卫视
 http://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西综艺
 http://mobilelive.gxtv.cn/live/nn_live1005/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西都市
 http://mobilelive.gxtv.cn/live/nn_live1006/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西新闻
 http://mobilelive.gxtv.cn/live/nn_live1007/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西移动
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西移动
 http://mobilelive.gxtv.cn/live/nn_live1008/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西国际
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西国际
 http://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西科教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西科教
 http://mobilelive.gxtv.cn/live/nn_live1010/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",宾阳电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",宾阳电视
 http://live.mudu.tv/watch/w4j7vs.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",横县电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",横县电视
 http://live.mudu.tv/watch/pnw265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",隆安电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",隆安电视
 http://m3u8.nntv.cn/cutvlive/nnvlatv/hls/9nyldt0_sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",象州电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",象州电视
 https://livesec.mudu.tv/watch/9n9dc8.m3u8?auth_key=1587069026-844998-0-c55683ca054ba36018c71c5466c4a9fa
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",来宾综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",来宾综合
 http://live.mudu.tv/watch/gfctsa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",柳州综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",柳州综合
 http://liveplay.lztvnet.com/live/31750_cc3fcb0f68b311e992905cb9018cf0d4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",柳州科教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",柳州科教
 http://liveplay.lztvnet.com/live/31750_e1bbfc0b68b311e992905cb9018cf0d4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",南宁都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",南宁都市
 http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",马山电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",马山电视
 http://m3u8.nntv.cn/cutvlive/nnvmstv/hls/9nymdt0_sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",钦州综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",钦州综合
 http://live.gxqztv.com/cspd1/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",灵山电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",灵山电视
 http://live.mudu.tv/watch/w0gec5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",田东电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",田东电视
 http://live.mudu.tv/watch/nczet8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",凌云电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",凌云电视
 http://live.mudu.tv/watch/0c7jnn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",靖西卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",靖西卫视
 http://live.mudu.tv/watch/7ht25n.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",北海综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",北海综合
 http://live.mudu.tv/watch/251d94.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",北海公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",北海公共
 http://live.mudu.tv/watch/pypq41.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",北海经济
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",北海经济
 http://live.mudu.tv/watch/x5038y.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",防城综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",防城综合
 https://live.fcgtvb.com/live/app1.m3u8?auth_key=1604480433-0-0-e42eb9c05386b5bc55c6a809943ebb1f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",防城公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",防城公共
 http://live.fcgtvb.com/live/app3.m3u8?auth_key=1605689054-0-0-23fb97339caf6f5b76bc29e7662c4d8e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",来宾综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",来宾综合
 http://live.mudu.tv/watch/gfctsa.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="广西地方",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="广西城隍",广西卫视
 http://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西都市
 http://mobilelive.gxtv.cn/live/nn_live1006/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西公共
 http://mobilelive.gxtv.cn/live/nn_live1000/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西影视
 http://mobilelive.gxtv.cn/live/nn_live1003/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西综艺
 http://mobilelive.gxtv.cn/live/nn_live1005/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西新闻
 http://mobilelive.gxtv.cn/live/nn_live1007/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西移动
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西移动
 http://mobilelive.gxtv.cn/live/nn_live1008/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西国际
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西国际
 http://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西科教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西科教
 http://mobilelive.gxtv.cn/live/nn_live1010/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西地方",广西购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西购物
 http://mobilelive.gxtv.cn/live/nn_live1002/playlist.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="广西地方",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="广西城隍",重庆卫视
 http://219.153.252.50/PLTV/88888888/224/3221225549/chunklist.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="广西地方",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="广西城隍",重庆卫视
 http://219.153.252.50/PLTV/88888888/224/3221225483/chunklist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="移动央视",CCTV1
 http://39.135.36.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
