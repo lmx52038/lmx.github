@@ -102,8 +102,6 @@ http://mobilelive.gxtv.cn/live/nn_live1010/playlist.m3u8
 http://live.mudu.tv/watch/w4j7vs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",横县电视
 http://live.mudu.tv/watch/pnw265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",隆安电视
-http://m3u8.nntv.cn/cutvlive/nnvlatv/hls/9nyldt0_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",象州电视
 https://livesec.mudu.tv/watch/9n9dc8.m3u8?auth_key=1587069026-844998-0-c55683ca054ba36018c71c5466c4a9fa
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",来宾综合
@@ -114,8 +112,6 @@ http://liveplay.lztvnet.com/live/31750_cc3fcb0f68b311e992905cb9018cf0d4.m3u8
 http://liveplay.lztvnet.com/live/31750_e1bbfc0b68b311e992905cb9018cf0d4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",南宁都市
 http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",马山电视
-http://m3u8.nntv.cn/cutvlive/nnvmstv/hls/9nymdt0_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",钦州综合
 http://live.gxqztv.com/cspd1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",灵山电视
@@ -142,8 +138,6 @@ http://live.mudu.tv/watch/gfctsa.m3u8
 http://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西都市
 http://mobilelive.gxtv.cn/live/nn_live1006/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西公共
-http://mobilelive.gxtv.cn/live/nn_live1000/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西影视
 http://mobilelive.gxtv.cn/live/nn_live1003/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广西城隍",广西综艺
