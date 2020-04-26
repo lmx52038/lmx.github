@@ -417,7 +417,7 @@ ICS,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=603
 纪实频道HD,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7081356299464623208&livemode=1&authCode=3a&stbId=5A4003FF004735100000288CB8C35B5C
 极速汽车,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6674152167754937164&livemode=1&authCode=3a&stbId=CA4003FF004735100000288CB8C3720E
 
-$c_start南宁联通$c_end
+$c_start南宁$c_end
 ﻿CCTV-1,http://121.31.30.91:8085/ysten-business/live/cctv-1/1.m3u8
 CCTV-2,http://121.31.30.91:8085/ysten-business/live/cctv-2/1.m3u8
 CCTV-3,http://121.31.30.91:8085/ysten-business/live/cctv-3/1.m3u8
@@ -825,7 +825,7 @@ CIBN每日影视,http://116.199.5.52:8114/00000000/2e368e04c76446bc9d30ca7a9f934
 优漫卡通,http://116.199.5.52:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=146&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 金鹰纪实,http://116.199.5.52:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=176&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 
-$c_start河北联通$c_end
+$c_start河北$c_end
 CCTV1,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5000000010000030810/index.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=004003FF0020925379008422F151665C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000030810&owchid=bestzb&owsid=4493204831455166715&AuthInfo=cjcdlBWDTYYoYtO46RRUwsYRcjcWQVqy4ItUwCSE6Ep6GNpZ+E47AWi696WsOzmj03B6YdXlnCO/v10UuMElRmR3DSSroDBBiXOoLcO5+55ijGc06cd3bkZ3LN9pGE+m
 CCTV2,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/6712427732700951500/index.m3u8?channel-id=bestzb&Contentid=6712427732700951500&livemode=1&stbId=004003FF0081265262008422F155806C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=6712427732700951500&owchid=bestzb&owsid=4493204831455135327&AuthInfo=GOuF/jehgM4nFa0wimRtpfSRVkjIVeXDZspXKAy0Zq3TM/SQmFbVcrlhrnu8eLXazYTtgYPl6YWVHseE4Unk8ukMO+XWQYSUD2n7IOEJ+RGxRvfNrXYQUMkw5EgyXEOS
 CCTV3,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/4871512150101568971/index.m3u8?channel-id=bestzb&Contentid=4871512150101568971&livemode=1&stbId=004003FF0089214101008422F151750C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=4871512150101568971&owchid=bestzb&owsid=4493204831455010145&AuthInfo=4qSulBommUo+YDxNsdLVO2o7wukF2ULJ12344KnB0jXmtSxSyr97XrwQJjEh2oKqOshAtbt/cqPzsXoyuPkBIRhAzCnvR7GhY15KDZfXyrlKqYK9XDA4+my5pa/rFSLZ
