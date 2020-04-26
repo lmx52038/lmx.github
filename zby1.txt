@@ -1825,7 +1825,7 @@ CGTN西语,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=h
 20200307,http://vod.v.jstv.com/2020/03/07/JSTV_JSWS_1583590906409_L0Jfobi_2256.mp4?start=0
 20200314,http://vod.v.jstv.com/2020/03/14/JSTV_JSWS_1584194489017_IBkzysy_2234.mp4?start=0
 
-★音悦★,#genre#
+音悦,#genre#
 沙漠寂寞,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghMCv5wUoqteI8gM.mp4
 云贵高原,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy6yM5gUo7Pnd-QU.mp4
 十八姑娘,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzL_v5wUowL3FvAM.mp4
@@ -1972,7 +1972,7 @@ Beast,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.mp4
 千年,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyPuR5wUohJGZlQU.mp4
 归去来兮,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-iR5wUotM3AtAU.mp4
 
-★闽曲★,#genre#
+闽曲,#genre#
 酒梦,http://jsmov2.a.yximgs.com:80/upic/2019/12/23/07/BMjAxOTEyMjMwNzMzMTFfMTU0MDc1NjUwOF8yMDgyNDEyMTE5OF8yXzM=_b_Bb163055b62a2ec722054c3a849be8194.mp4
 醉鸳鸯,http://upmov.a.yximgs.com:80/upic/2019/12/23/02/BMjAxOTEyMjMwMjIxNTJfMTU0MDc1NjUwOF8yMDgyMjk5NjUwNF8yXzM=_b_Ba4fc7a4e6cfad5d943131bbc21dddfc0.mp4
 伤心痛,http://jsmov2.a.yximgs.com:80/upic/2019/12/23/16/BMjAxOTEyMjMxNjA2NTVfMTU0MDc1NjUwOF8yMDgzNzIyNjQ4Ml8yXzM=_b_Bb25f4d256d6e5bfd0cbd38d3c2324689.mp4
@@ -2049,7 +2049,7 @@ Beast,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.mp4
 罗时丰 爱情的路,http://vd4.bdstatic.com/mda-jcrjcp1wy5q2i00n/sc/mda-jcrjcp1wy5q2i00n.mp4
 罗时丰 一定要成功,http://vd1.bdstatic.com/mda-hgmk00ncqxvvix0v/mda-hgmk00ncqxvvix0v.mp4
 
-★舞曲★,#genre#
+舞曲,#genre#
 小三冷漠,http://111.73.46.108/2018/st/Avi_%E5%86%B7%E6%BC%A0-%E5%B0%8F%E4%B8%89%20-%20%E5%A4%9C%E5%BA%97%E6%AD%8C%E6%9B%B2.flv
 梦中新娘,http://111.73.46.108/2018/st/Avi_DJ%E8%88%9E%E6%9B%B2%20-%20%E5%A4%9C%E5%BA%97%E7%BE%8E%E5%A5%B3DJ%E8%A7%86%E9%A2%91%20-%20%E6%A2%A6%E4%B8%AD%E6%96%B0%E5%A8%98.flv
 漂亮小妹,http://111.73.46.108//st/Avi_%E9%9F%A9%E5%9B%BD%E7%BE%8E%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%83%AD%E8%88%9E%E3%80%90%E6%BC%82%E4%BA%AE%E5%B0%8F%E5%A6%B9%E3%80%91%E9%85%92%E5%90%A7%E7%8E%B0%E5%9C%BA%E7%BE%8E%E5%A5%B3%E5%86%85%E8%A1%A3%E7%83%AD%E8%88%9E.flv
@@ -2128,7 +2128,7 @@ Band-SEXY SELFIE,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6b-64wUomN_q7wY.
 OSTAVASH SAM,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6L764wUo6s-Q5AE.mp4
 Twerk,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz8HW4gUohJqXmAY.mp4
 
-★老歌★,#genre#
+老歌,#genre#
 火苗,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_448991&response=res&format=mkv&type=convert_url
 殇雪,http://vd3.bdstatic.com/mda-ijtxvx1z3h6y39s6/sc/mda-ijtxvx1z3h6y39s6.mp4
 山花花,http://vd3.bdstatic.com/mda-idkvkg282emamv8k/sc/mda-idkvkg282emamv8k.mp4
@@ -2294,7 +2294,7 @@ Twerk,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz8HW4gUohJqXmAY.mp4
 独立,http://vodcdn.video.taobao.com/oss/taobao-ugc/05c427c97a0c4e8e853dd0b85e6beb39/1519722334/video.m3u8.m3u8
 冬季到台北来看雨,http://cntv.hls.cdn.myqcloud.com/asp/hls/1200/0303000a/3/default/6c36fc00b11040acb18cd71ffcf9b257/1200.m3u8
 
-★嗨舞★,#genre#
+嗨舞,#genre#
 混音 Ⅰ 又一次,http://www.zuori.cc/index/downloads?d=43165&v=x65ewivb
 混音 Ⅰ 说再见,http://www.zuori.cc/index/downloads?d=43165&v=TlDRyscJ
 舞曲 Ⅰ 给我希望,http://www.zuori.cc/index/downloads?d=43165&v=vQv8Jghp
@@ -2346,7 +2346,7 @@ Twerk,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz8HW4gUohJqXmAY.mp4
 车舞 Ⅰ 泰国波动比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=8ojPWmEM
 车舞 Ⅰ 泰国郊郎蓝色比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=yq8JSUqD
 
-★音乐★,#genre#
+音乐,#genre#
 新年 Ⅰ 年来了,https://www.zuori.cc/index/downloads?d=43165&v=S8I83kaD
 新年 Ⅰ 春之晨,https://www.zuori.cc/index/downloads?d=43165&v=oh9vhM0h
 新年 Ⅰ 活出自己,https://www.zuori.cc/index/downloads?d=43165&v=OO8fosVz
@@ -2387,7 +2387,7 @@ Twerk,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz8HW4gUohJqXmAY.mp4
 原子霏 Ⅰ 不想哭却有泪在流,http://www.zuori.cc/index/downloads?d=43165&v=SdGPbOaa
 谢金燕 Ⅰ 姐姐,http://www.zuori.cc/index/downloads?d=43165&v=eFCiO9wO
 
-★DJ★,#genre#
+DJ,#genre#
 花姐 Ⅰ 狂浪DJ,http://www.zuori.cc/index/downloads?d=43165&v=6zdYTEO6
 郭玲 Ⅰ 拥抱你离去DJ,http://www.zuori.cc/index/downloads?d=43165&v=tFlFt45a
 暴林 Ⅰ 殇雪DJ,http://www.zuori.cc/index/downloads?d=43165&v=MXMgq6BW
@@ -2411,7 +2411,7 @@ Twerk,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz8HW4gUohJqXmAY.mp4
 孙艺琪 Ⅰ 苍天不负有情人DJ,http://www.zuori.cc/index/downloads?d=43165&v=Hswt4vOf
 王奕心 Ⅰ 我的唇吻不到我爱的人DJ,http://www.zuori.cc/index/downloads?d=43165&v=TNlvijwq
 
-★神曲★,#genre#
+神曲,#genre#
 sheep 张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F1d12ad4ec35446ed93981927577c34a900dd755d2da3a1a0fd41c06ab23f4863
 屋顶着火 宋茜,https://vd3.bdstatic.com/mda-ife08h4xpq85sg65/logo/hd/mda-ife08h4xpq85sg65.mp4?pd=19&vt=1
 你的酒馆对我打了烊 陈雪凝,https://vd3.bdstatic.com/mda-ka59e4w0qxxsxnt0/hd/mda-ka59e4w0qxxsxnt0.mp4?pd=19&vt=1
@@ -2468,7 +2468,7 @@ sheep 张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?a
 给你给我,https://vdse.bdstatic.com//4d056936c317b35f886ced83147ad7e8.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A42%3A28Z%2F-1%2Fhost%2F13c0f2dda852b6fdbcd7422de8ac3a48437304b4c38728deeedb6558c47a9eb9
 像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
 
-★嗨曲★,#genre#
+嗨曲,#genre#
 车舞 ◆ 泰国超甜美丽模特,https://www.zuori.cc/index/downloads?d=43165&v=njEPbOh5
 车舞 ◆ 泰国跳舞家族聚会,https://www.zuori.cc/index/downloads?d=43165&v=HXPFyvSW
 车舞 ◆ 泰国迷你直通车,https://www.zuori.cc/index/downloads?d=43165&v=lpWRRLUD
@@ -2512,7 +2512,7 @@ sheep 张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?a
 舞蹈 ◆ 再一次鬼步舞,https://www.zuori.cc/index/downloads?d=43165&v=R4SIsRRH
 舞蹈 ◆ 风靡一时的鬼步舞,https://www.zuori.cc/index/downloads?d=43165&v=BnnJWufX
 
-★比基★,#genre#
+比基,#genre#
 告诉我你没有错,http://listen.9sing.cn///2019/%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91/DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91/2019-08/2019-08-31/[Mp4]%E5%91%8A%E8%AF%89%E4%BD%A0%E6%88%91%E6%B2%A1%E6%9C%89%E9%94%99_%E4%B8%81%E7%B4%AB_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E5%86%99%E7%9C%9FDJ%E8%A7%86%E9%A2%91[%E7%8B%AC].mp4
 今夜你要喝醉,http://listen.9sing.cn///2017/%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91/DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91/2018/2018-09/2018-09-30/[Avi]%E4%BB%8A%E5%A4%9C%E4%BD%A0%E8%A6%81%E5%96%9D%E9%86%89-%E5%BC%A0%E5%86%AC%E7%8E%B2-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E6%B3%B3%E8%A3%85%E8%A7%86%E9%A2%91[%E7%8B%AC].mp4
 连名带娃,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-06%2F2018-06-12%2F%E8%BF%9E%E5%90%8D%E5%B8%A6%E5%A7%93-%E6%96%87%E6%85%A7%E5%A6%82-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E8%BD%A6%E5%B1%95%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
@@ -2575,7 +2575,7 @@ sheep 张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?a
 车展泰国波动美女,http://www.zuori.cc/index/downloads?d=43165&v=8ojPWmEM
 车展泰国郊郎蓝色美女,http://www.zuori.cc/index/downloads?d=43165&v=yq8JSUqD
 
-★各省★,#genre#
+各省,#genre#
 广东◆,http://player.200877926.top/17/gd/gztvm3u8.php?id=gzzh
 广东 Ⅰ 广州综合台,http://player.200877926.top/17/gd/gztvm3u8.php?id=gzzh
 广东 Ⅰ 广州影视台,http://player.200877926.top/17/gd/gztvm3u8.php?id=gzys
