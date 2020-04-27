@@ -959,7 +959,7 @@ IPTV-3+,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240093_1/encoder/0/pl
 IPTV-5+,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240094_1/encoder/0/playlist.m3u8?CONTENTID=00000110240094_1
 IPTV-6+,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240007_1/encoder/0/playlist.m3u8?CONTENTID=00000110240007_1
 IPTV-8+,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240125_1/encoder/0/playlist.m3u8?CONTENTID=00000110240125_1
-IPTV-5+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240281_1/encoder/0/playlist.m3u8?CONTENTID=00000110240281_1
+IPTV-5+,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240281_1/encoder/0/playlist.m3u8?CONTENTID=00000110240281_1
 IPTV野外,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240095_1/encoder/0/playlist.m3u8?CONTENTID=00000110240095_1
 IPTV法治,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240096_1/encoder/0/playlist.m3u8?CONTENTID=00000110240096_1
 IPTV热播剧场,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240089_1/encoder/0/playlist.m3u8?CONTENTID=00000110240089_1
