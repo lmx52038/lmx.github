@@ -295,7 +295,7 @@ $c_start广西频道$c_end
 
 $c_start咪咕央视$c_end
 ﻿CCTV-1综合,http://stream.guihet.com/migu/index.php?id=608807420
-CCTV-2财经,http://stream.guihet.com/migu/index.php?id=635492309
+CCTV-2财经,http://stream.guihet.com/migu/index.php?id=672926537
 CCTV-3综艺,http://stream.guihet.com/migu/index.php?id=624878270
 CCTV-4中文,http://stream.guihet.com/migu/index.php?id=672924435
 CCTV-4欧洲,http://stream.guihet.com/migu/index.php?id=608807419
