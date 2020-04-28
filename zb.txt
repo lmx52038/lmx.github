@@ -568,7 +568,7 @@ http://mobilelive.gxtv.cn/live/nn_live1000/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="咪咕央视",CCTV-1综合
 http://stream.guihet.com/migu/index.php?id=608807420
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="咪咕央视",CCTV-2财经
-http://stream.guihet.com/migu/index.php?id=635492309
+http://stream.guihet.com/migu/index.php?id=672926537
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="咪咕央视",CCTV-3综艺
 http://stream.guihet.com/migu/index.php?id=624878270
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="咪咕央视",CCTV-4中文
