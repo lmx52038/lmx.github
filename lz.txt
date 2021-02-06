@@ -15,6 +15,14 @@
 峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 
 流畅央视,#genre#
+春晚首选,http://202.107.188.230:5002/cctv1_hdcq.m3u8?token=guoziyun
+中央综合,http://202.107.188.230:5002/cctv1_hdcq.m3u8?token=guoziyun
+中央财经,http://202.107.188.230:5002/cctv2_hdcq.m3u8?token=guoziyun
+中央电视,http://202.107.188.230:5002/cctv8_hdcq.m3u8?token=guoziyun
+中央科教,http://202.107.188.230:5002/cctv10_hdcq.m3u8?token=guoziyun
+中央戏曲,http://202.107.188.230:5002/cctv11_hdcq.m3u8?token=guoziyun
+中央法制,http://202.107.188.230:5002/cctv12_hdcq.m3u8?token=guoziyun
+中央新闻,http://202.107.188.230:5002/cctvnews_hdcq.m3u8?token=guoziyun
 央视新闻,http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 中央一台,http://yuniptvunql.chinayungu.cn:65530/live/cctv1/index.m3u8
 中央二台,http://yuniptvunql.chinayungu.cn:65530/live/cctv2/index.m3u8
@@ -33,24 +41,17 @@
 中央十四,http://yuniptvunql.chinayungu.cn:65530/live/cctv14/index.m3u8
 中央十五,http://yuniptvunql.chinayungu.cn:65530/live/cctv15/index.m3u8
 中央十七,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-中央综合,http://202.107.188.230:5002/cctv1_hdcq.m3u8?token=guoziyun
-中央财经,http://202.107.188.230:5002/cctv2_hdcq.m3u8?token=guoziyun
-中央电视,http://202.107.188.230:5002/cctv8_hdcq.m3u8?token=guoziyun
-中央科教,http://202.107.188.230:5002/cctv10_hdcq.m3u8?token=guoziyun
-中央戏曲,http://202.107.188.230:5002/cctv11_hdcq.m3u8?token=guoziyun
-中央法制,http://202.107.188.230:5002/cctv12_hdcq.m3u8?token=guoziyun
-中央新闻,http://202.107.188.230:5002/cctvnews_hdcq.m3u8?token=guoziyun
 
 流畅卫视,#genre#
 凤凰咨询,http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
 凤凰中文,http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
-湖南卫视,http://yuniptvunql.chinayungu.cn:65530/live/hunanws/index.m3u8
+江苏卫视,http://yuniptvunql.chinayungu.cn:65530/live/jsws/index.m3u8
 深圳卫视,http://yuniptvunql.chinayungu.cn:65530/live/szws/index.m3u8
+安徽卫视,http://yuniptvunql.chinayungu.cn:65530/live/ahws/index.m3u8
+湖南卫视,http://yuniptvunql.chinayungu.cn:65530/live/hunanws/index.m3u8
 东方卫视,http://yuniptvunql.chinayungu.cn:65530/live/dfws/index.m3u8
 北京卫视,http://yuniptvunql.chinayungu.cn:65530/live/bjws/index.m3u8
 浙江卫视,http://yuniptvunql.chinayungu.cn:65530/live/zjws/index.m3u8
-江苏卫视,http://yuniptvunql.chinayungu.cn:65530/live/jsws/index.m3u8
-安徽卫视,http://yuniptvunql.chinayungu.cn:65530/live/ahws/index.m3u8
 辽宁卫视,http://yuniptvunql.chinayungu.cn:65530/live/lnws/index.m3u8
 黑龙江卫视,http://yuniptvunql.chinayungu.cn:65530/live/hljws/index.m3u8
 天津卫视,http://yuniptvunql.chinayungu.cn:65530/live/tjws/index.m3u8
