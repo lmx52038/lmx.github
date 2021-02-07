@@ -43,8 +43,6 @@
 中央十七,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 
 流畅卫视,#genre#
-凤凰咨询,http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
-凤凰中文,http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 江苏卫视,http://yuniptvunql.chinayungu.cn:65530/live/jsws/index.m3u8
 深圳卫视,http://yuniptvunql.chinayungu.cn:65530/live/szws/index.m3u8
 安徽卫视,http://yuniptvunql.chinayungu.cn:65530/live/ahws/index.m3u8
@@ -550,8 +548,6 @@ CGTN,http://39.135.32.27:6610/000000001000/1000000002000009569/1.m3u8?
 军旅剧场,http://39.135.32.27:6610/000000001000/7485075951068666323/1.m3u8?
 
 杭州移动,#genre#
-凤凰资讯,http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8
-凤凰中文,http://117.148.187.100/PLTV/88888888/224/3221226368/index.m3u8
 中央一台,http://117.148.187.100/PLTV/88888888/224/3221226527/index.m3u8
 中央一台,http://117.148.187.100/PLTV/88888888/224/3221226589/index.m3u8
 中央二台,http://117.148.187.100/PLTV/88888888/224/3221226468/index.m3u8
@@ -1108,9 +1104,6 @@ CGTN,http://39.136.35.136:18890/000000001000/8428799834696888424/1.m3u8?
 中央新闻,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226339/1.m3u8,cntv-cctv13
 中央新闻,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8,cntv-cctv13
 中央英文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225867/1.m3u8,cntv-cctv9
-凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
-凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
-凤凰资讯,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8
 湖南卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226241/1.m3u8,cntv-hunan
 湖北卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226310/1.m3u8,cntv-hubei
 江苏卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226242/1.m3u8,cntv-jiangsu
@@ -1274,10 +1267,6 @@ CGTN纪录,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225866/1.m3u8
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 
 浙江移动,#genre#
-凤凰卫视,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
-凤凰咨询,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
-凤凰中文,http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
-凤凰资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 中央一台,http://112.17.40.140/PLTV/88888888/224/3221226541/index.m3u8
 中央二台,http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8
 中央三台,http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
