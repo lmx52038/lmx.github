@@ -1,0 +1,54 @@
+﻿<script>
+var url = 'https://api2019.gxtv.cn/memberApi/channel/channelList?loadFlag=false&pageNo=1&pageSize=1000&liveMethod=0&deptId=0a509685ba1a11e884e55cf3fc49331c&platformId=bd7d620a502d43c09b35469b3cd8c211';
+gxtv = new XMLHttpRequest()
+gxtv.open("get", url, true);
+gxtv.send();
+gxtv.onreadystatechange = function() {
+   if(gxtv.readyState==4){
+     data = gxtv.responseText;
+     var vid = location.hrf.split('html?id=')[1];
+     var ch = [];
+     ch['gxws'] = { m3u8 : data.match(/"encodeM3u8":"(.*?)"/g)[0].match(/"encodeM3u8":"(.*?)"/)[1],
+                   customId : data.match(/"encodingId":"(.*?)"/g)[0].match(/"encodingId":"(.*?)"/)[1],
+                   contentId : data.match(/"encodingKey":"(.*?)"/g)[0].match(/"encodingKey":"(.*?)"/)[1] }
+     ch['gxzy'] = { m3u8 : data.match(/"encodeM3u8":"(.*?)"/g)[1].match(/"encodeM3u8":"(.*?)"/)[1],
+                   customId : data.match(/"encodingId":"(.*?)"/g)[1].match(/"encodingId":"(.*?)"/)[1],
+                   contentId : data.match(/"encodingKey":"(.*?)"/g)[1].match(/"encodingKey":"(.*?)"/)[1] }
+     ch['gxds'] = { m3u8 : data.match(/"encodeM3u8":"(.*?)"/g)[2].match(/"encodeM3u8":"(.*?)"/)[1],
+                   customId : data.match(/"encodingId":"(.*?)"/g)[2].match(/"encodingId":"(.*?)"/)[1],
+                   contentId : data.match(/"encodingKey":"(.*?)"/g)[2].match(/"encodingKey":"(.*?)"/)[1] }
+     ch['gxys'] = { m3u8 : data.match(/"encodeM3u8":"(.*?)"/g)[3].match(/"encodeM3u8":"(.*?)"/)[1],
+                   customId : data.match(/"encodingId":"(.*?)"/g)[3].match(/"encodingId":"(.*?)"/)[1],
+                   contentId : data.match(/"encodingKey":"(.*?)"/g)[3].match(/"encodingKey":"(.*?)"/)[1] }
+     ch['gxxw'] = { m3u8 : data.match(/"encodeM3u8":"(.*?)"/g)[4].match(/"encodeM3u8":"(.*?)"/)[1],
+                   customId : data.match(/"encodingId":"(.*?)"/g)[4].match(/"encodingId":"(.*?)"/)[1],
+                   contentId : data.match(/"encodingKey":"(.*?)"/g)[4].match(/"encodingKey":"(.*?)"/)[1] }
+     ch['gxgg'] = { m3u8 : data.match(/"encodeM3u8":"(.*?)"/g)[5].match(/"encodeM3u8":"(.*?)"/)[1],
+                   customId : data.match(/"encodingId":"(.*?)"/g)[5].match(/"encodingId":"(.*?)"/)[1],
+                   contentId : data.match(/"encodingKey":"(.*?)"/g)[5].match(/"encodingKey":"(.*?)"/)[1] }
+     ch['gxkj'] = { m3u8 : data.match(/"encodeM3u8":"(.*?)"/g)[6].match(/"encodeM3u8":"(.*?)"/)[1],
+                   customId : data.match(/"encodingId":"(.*?)"/g)[6].match(/"encodingId":"(.*?)"/)[1],
+                   contentId : data.match(/"encodingKey":"(.*?)"/g)[6].match(/"encodingKey":"(.*?)"/)[1] }
+     ch['gxgj'] = { m3u8 : data.match(/"encodeM3u8":"(.*?)"/g)[7].match(/"encodeM3u8":"(.*?)"/)[1],
+                   customId : data.match(/"encodingId":"(.*?)"/g)[7].match(/"encodingId":"(.*?)"/)[1],
+                   contentId : data.match(/"encodingKey":"(.*?)"/g)[7].match(/"encodingKey":"(.*?)"/)[1] }
+     ch['gxlsg'] = { m3u8 : data.match(/"encodeM3u8":"(.*?)"/g)[8].match(/"encodeM3u8":"(.*?)"/)[1],
+                   customId : data.match(/"encodingId":"(.*?)"/g)[8].match(/"encodingId":"(.*?)"/)[1],
+                   contentId : data.match(/"encodingKey":"(.*?)"/g)[8].match(/"encodingKey":"(.*?)"/)[1] }
+     ch['gxyd'] = { m3u8 : data.match(/"encodeM3u8":"(.*?)"/g)[9].match(/"encodeM3u8":"(.*?)"/)[1],
+                   customId : data.match(/"encodingId":"(.*?)"/g)[9].match(/"encodingId":"(.*?)"/)[1],
+                   contentId : data.match(/"encodingKey":"(.*?)"/g)[9].match(/"encodingKey":"(.*?)"/)[1] }
+     ch['cetv1'] = { m3u8 : data.match(/"encodeM3u8":"(.*?)"/g)[10].match(/"encodeM3u8":"(.*?)"/)[1],
+                   customId : data.match(/"encodingId":"(.*?)"/g)[10].match(/"encodingId":"(.*?)"/)[1],
+                   contentId : data.match(/"encodingKey":"(.*?)"/g)[10].match(/"encodingKey":"(.*?)"/)[1] }
+     ch['cetv2'] = { m3u8 : data.match(/"encodeM3u8":"(.*?)"/g)[11].match(/"encodeM3u8":"(.*?)"/)[1],
+                   customId : data.match(/"encodingId":"(.*?)"/g)[11].match(/"encodingId":"(.*?)"/)[1],
+                   contentId : data.match(/"encodingKey":"(.*?)"/g)[11].match(/"encodingKey":"(.*?)"/)[1] }
+     ch['cetv4'] = { m3u8 : data.match(/"encodeM3u8":"(.*?)"/g)[12].match(/"encodeM3u8":"(.*?)"/)[1],
+                   customId : data.match(/"encodingId":"(.*?)"/g)[12].match(/"encodingId":"(.*?)"/)[1],
+                   contentId : data.match(/"encodingKey":"(.*?)"/g)[12].match(/"encodingKey":"(.*?)"/)[1] }
+
+     location.href = 'https://tv.gxtv.cn/static/js/rainbow/ArcMediaPlayback.swf?src='+ch[vid].m3u8+'&autoPlay=true&replay=true&opendanmu=true&customId='+ch[vid].customId +'&contentId='+ch[vid].contentId+'&javascriptCallbackFunction=onJavaScriptBridgeCreated';
+   }
+}
+</script>
